@@ -3,6 +3,9 @@ Multi purpose "OnAir Lamp" solution targeted for use in professional broadcast e
 http://saschaludwig.github.io/OnAirScreen/
 
 
+Install as here:
+https://gist.github.com/Chalta/2de5a0248491b2506897b445bded3b1c
+
 #### Screenshot
 <img src="https://cdn.rawgit.com/saschaludwig/OnAirScreen/gh-pages/images/oas.png" width="500px">
 
